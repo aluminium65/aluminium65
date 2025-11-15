@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Linux system hardening, network security concepts, or career advice in the Cybersecurity space.**
 
-- 📫 How to reach me **https://www.instagram.com/dawoo_d5695/**
+- 📫 How to reach me **muhammaddawood75p@gmail.com**
 
 - ⚡ Fun fact **Salahuddin Ayyubi was renowned for his extraordinary chivalry and mercy towards his enemies, famously sparing the Christian residents and providing safe passage after his recapture of Jerusalem in 1187.**
 
@@ -27,7 +27,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhammad dawood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad dawood" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad dawood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad dawood" height="30" width="40" /></a>
-<a href="https://instagram.com/dawoo_d5695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dawoo_d5695" height="30" width="40" /></a>
 <a href="https://medium.com/@muhammaddawood65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammaddawood65" height="30" width="40" /></a>
 </p>
 
