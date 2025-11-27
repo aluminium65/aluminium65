@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python Networking**
 
-- 🌱 I’m currently learning **Incident Response, Asynchronous programming, Low-level programming (C++), and OS Fundamentals.**
+- 🌱 I’m currently learning **Incident Response, Asynchronous programming, Low-level programming (C, C++), and OS Fundamentals.**
 
 - 👯 I’m looking to collaborate on **Open-source Development**
 
