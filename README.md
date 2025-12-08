@@ -34,6 +34,20 @@
 <a href="https://medium.com/@muhammaddawood65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammaddawood65" height="100" width="125" /></a>
 </p>
 
+---
+
+
+<h2 align="left">Achievements:</h2>
+<p align="center">
+  <img src="./I2CS__1_.png" alt="Cisco NetAcad Introduction to Cybersecurity Badge" width="150" height="150" style="margin: 10px;">
+  
+  <img src="./NB.png" alt="Cisco NetAcad Networking Basics Badge" width="150" height="150" style="margin: 10px;">
+  
+  <img src="./NDIC.png" alt="Cisco NetAcad Networking Devices and Initial Configuration Badge" width="150" height="150" style="margin: 10px;">
+  
+  <img src="./ES.png" alt="Cisco NetAcad Endpoint Security Badge" width="150" height="150" style="margin: 10px;">
+</p>
+
 
 <pre style="background:#000000; color:#00FF00; padding:15px; border-radius:8px; font-size:16px; font-family: 'Fira Code', monospace;">
 ┌──(dawood㉿parrot)-[~/]
