@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DAWOOD</h1>
-<h3 align="center">A passionate Cybersecurity Student from Pakistan.</h3>
+<h3 align="center">A multidisciplinary student from Pakistan focused on programming, network architecture, and security, with a keen interest in cryptology and low-level systems.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxld25rdm84dWxrZ2M4NGQzYWJrc212MjB6N2p5cHlhdjd4ZTFxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
