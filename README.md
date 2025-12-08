@@ -38,14 +38,14 @@
 
 
 <h2 align="left">Achievements:</h2>
-<p align="center">
-  <img src="./I2CS__1_.png" alt="Cisco NetAcad Introduction to Cybersecurity Badge" width="150" height="150" style="margin: 10px;">
+<p align="left">
+  <img src="./I2CS__1_.png" alt="Cisco NetAcad Introduction to Cybersecurity Badge" height="115" width="115" style="margin: 10px;">
   
-  <img src="./NB.png" alt="Cisco NetAcad Networking Basics Badge" width="150" height="150" style="margin: 10px;">
+  <img src="./NB.png" alt="Cisco NetAcad Networking Basics Badge" height="115" width="115" style="margin: 10px;">
   
-  <img src="./NDIC.png" alt="Cisco NetAcad Networking Devices and Initial Configuration Badge" width="150" height="150" style="margin: 10px;">
+  <img src="./NDIC.png" alt="Cisco NetAcad Networking Devices and Initial Configuration Badge" height="115" width="115" style="margin: 10px;">
   
-  <img src="./ES.png" alt="Cisco NetAcad Endpoint Security Badge" width="150" height="150" style="margin: 10px;">
+  <img src="./ES.png" alt="Cisco NetAcad Endpoint Security Badge" height="115" width="115" style="margin: 10px;">
 </p>
 
 
