@@ -45,6 +45,7 @@
   <img src="./NDIC.png" alt="Cisco NetAcad Networking Devices and Initial Configuration Badge" height="115" width="115" style="margin: 10px;">
   <img src="./aoc5.svg" alt="Advent Of Cyber (TryHackMe)" height="115" width="115" style="margin: 10px;">
   <img src="./ES.png" alt="Cisco NetAcad Endpoint Security Badge" height="115" width="115" style="margin: 10px;">
+  <img src="./streak30.svg" alt="Hacking for 30 days solid (TryHackMe)" height="115" width="115" style="margin: 10px;">
 </p>
 
 
